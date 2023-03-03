@@ -5,3 +5,5 @@ draft: false
 ---
 
 Este es el primer post de nuestra web. Pronto tendremos contenido interesante!!
+
+Poco a poco añadiremos más contenido sobre juegos de mesa modernos.
